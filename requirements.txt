@@ -1,3 +1,6 @@
 fastapi
 uvicorn
 requests
+https://github.com/amgedalswidi/bank     #المكتبة  الخاصة  بالبنك  والتي  تحتوي  على  ال API  وال CLI1
+bank> uvicorn microservices.api:app --reload  #تشغيل  السيرفر  الخاص  بال API
+ python microservices/cli.py       #تشغيل  ال CLI  الخاص  بالبنك
